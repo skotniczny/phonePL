@@ -1,0 +1,252 @@
+{
+    "tablica": {
+      "header": {
+        "tytul": "T12-VoIP",
+        "data": "2018-01-25 17:00:10"
+      },
+      "numery": {
+        "voip": [
+          {
+            "numer": "391069CDU",
+            "operator": "Polkomtel Sp. z o.o.",
+            "blokada": "false"
+          },
+          {
+            "numer": "391111CDU",
+            "operator": "Netia S.A.",
+            "blokada": "false"
+          },
+          {
+            "numer": "391231CDU",
+            "operator": "HCLA Group Poland Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391232CDU",
+            "operator": "DIDXL Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391233CDU",
+            "operator": "Telnyx Ireland Limited",
+            "blokada": "true"
+          },
+          {
+            "numer": "391235CDU",
+            "operator": "EOON Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391320CDU",
+            "operator": "E-Telko Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391321CDU",
+            "operator": "E-Telko Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391322CDU",
+            "operator": "E-Telko Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391323CDU",
+            "operator": "E-Telko Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391324CDU",
+            "operator": "E-Telko Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391325CDU",
+            "operator": "E-Telko Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391328CDU",
+            "operator": "E-Telko Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391329CDU",
+            "operator": "E-Telko Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391396CDU",
+            "operator": "VARS Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391397CDU",
+            "operator": "VARS Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391401CDU",
+            "operator": "Aiton Caldwell S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391402CDU",
+            "operator": "Aiton Caldwell S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391404CDU",
+            "operator": "CALL3.PL Sp. z o.o.",
+            "blokada": "false"
+          },
+          {
+            "numer": "391405CDU",
+            "operator": "Netia S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391406CDU",
+            "operator": "PHUP CONTUR Sp. z o.o.",
+            "blokada": "false"
+          },
+          {
+            "numer": "391408CDU",
+            "operator": "Tellion Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391417CDU",
+            "operator": "Hyperion S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391418CDU",
+            "operator": "EASYCALL.PL S.A.",
+            "blokada": "false"
+          },
+          {
+            "numer": "391419CDU",
+            "operator": "EASYCALL.PL S.A.",
+            "blokada": "false"
+          },
+          {
+            "numer": "391420CDU",
+            "operator": "EASYCALL.PL S.A.",
+            "blokada": "false"
+          },
+          {
+            "numer": "391428CDU",
+            "operator": "Televoice Polska Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "391429CDU",
+            "operator": "TK Telekom Sp. z o.o.",
+            "blokada": "false"
+          },
+          {
+            "numer": "391462CDU",
+            "operator": "IPTELL Sp. z o.o.",
+            "blokada": "false"
+          },
+          {
+            "numer": "392222CDU",
+            "operator": "VoxNet Sp. z o.o. Sp. k.",
+            "blokada": "false"
+          },
+          {
+            "numer": "393222CDU",
+            "operator": "Intelligent Technologies S.A.",
+            "blokada": "false"
+          },
+          {
+            "numer": "393333CDU",
+            "operator": "KOBA Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "393393CDU",
+            "operator": "Intelligent Technologies S.A.",
+            "blokada": "false"
+          },
+          {
+            "numer": "393939CDU",
+            "operator": "VoxNet Sp. z o.o. Sp. k.",
+            "blokada": "false"
+          },
+          {
+            "numer": "393999CDU",
+            "operator": "Intelligent Technologies S.A.",
+            "blokada": "false"
+          },
+          {
+            "numer": "394000CDU",
+            "operator": "BIALL-NET Sp. z o.o.",
+            "blokada": "false"
+          },
+          {
+            "numer": "396960CDU",
+            "operator": "EXATEL S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "398888CDU",
+            "operator": "Naukowa i Akademicka Sieć Komputerowa - Państwowy Instytut Badawczy (NASK - PIB)",
+            "blokada": "true"
+          },
+          {
+            "numer": "3990QMCDU",
+            "operator": "Orange Polska S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "3991QMCDU",
+            "operator": "Orange Polska S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "3992QMCDU",
+            "operator": "Orange Polska S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "39935MCDU",
+            "operator": "Orange Polska S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "39936MCDU",
+            "operator": "Orange Polska S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "39937MCDU",
+            "operator": "Orange Polska S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "39938MCDU",
+            "operator": "Orange Polska S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "399399CDU",
+            "operator": "Omico Active Sp. z o.o.",
+            "blokada": "true"
+          },
+          {
+            "numer": "3995QMCDU",
+            "operator": "Orange Polska S.A.",
+            "blokada": "true"
+          },
+          {
+            "numer": "39999MCDU",
+            "operator": "Kwarantanna (Middleton Sp. z o.o. do 10.2017)",
+            "blokada": "true"
+          }
+        ]
+      }
+    }
+  }

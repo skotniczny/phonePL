@@ -1,0 +1,1632 @@
+{
+    "tablica": {
+      "header": {
+        "tytul": "T2-PLMN",
+        "data": "2018-01-20 17:00:02"
+      },
+      "numery": {
+        "plmn": [
+          {
+            "numer": "450",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "45(1-8)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "4590(1-4,0)",
+            "operator": "ITI Neovision S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "4590(5-9)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "4591",
+            "operator": "KLUCZ Telekomunikacja Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "45920",
+            "operator": "SIA Ntel Solutions",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "4592(1-9)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "4593",
+            "operator": "Virgin Mobile Polska Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "45945",
+            "operator": "NAU Profit Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "45950",
+            "operator": "SIA Ntel Solutions",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "4595(1-9)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "459(6-9)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "500",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "501",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "502",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "503",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "504",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "505",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "506",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "507",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "508",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "509",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "510",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "511",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "512",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "513",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "514",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "515",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "516",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "517",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "518",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "519",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "530",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "531",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "532",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "533",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "534",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "535",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "536(1-5,7-0)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "5366",
+            "operator": "Polskie Sieci Cyfrowe Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "537",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "538",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "539",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "571(1-4)",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "571(5-0)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "572",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "573(1-4,9,0)",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "573(5-8)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "57(4-8,0)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "579(1-3)",
+            "operator": "Lycamobile Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57941",
+            "operator": "Messagebird B.V.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57942",
+            "operator": "SIA NetBalt",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "5794(3-5,0)",
+            "operator": "ITI Neovision S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57946",
+            "operator": "KLUCZ Telekomunikacja Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57947",
+            "operator": "Nowa Telefonia Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57948",
+            "operator": "SIA Ntel Solutions",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57949",
+            "operator": "SGT S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57950",
+            "operator": "KLUCZ Telekomunikacja Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "5795(1,2,4-6)",
+            "operator": "Virgin Mobile Polska Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57953",
+            "operator": "SIA NetBalt",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57957",
+            "operator": "3S S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57958",
+            "operator": "NIMBUSFIVE GmbH",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "57959",
+            "operator": "ITI Neovision S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "5796",
+            "operator": "Virgin Mobile Polska Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "5797",
+            "operator": "EZ PHONE MOBILE Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "579(8-0)",
+            "operator": "Virgin Mobile Polska Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "600",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "601",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "602",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "603",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "604",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "605",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "606",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "607",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "608",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "609",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "660",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "661",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "662",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "663",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "664",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "665",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "666(1-5,7-0)",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "6666",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "667",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "668",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "669",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "690(1-6)",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "6907",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "690(8-0)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "691",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "692",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "693",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "694",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "695",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "696",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "697",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "698",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "69900",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69901",
+            "operator": "AMD Telecom S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69902",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69903",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69904",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69905",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69906",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69907",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69908",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69909",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69910",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69911",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69912",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69913",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69914",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69915",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69916",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69917",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69918",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69919",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69920",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69921",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69922",
+            "operator": "E-Telko Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69923",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69924",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69925",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69926",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69927",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69928",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69929",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "6993",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "6994",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69950",
+            "operator": "AMD Telecom S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "6995(1-5)",
+            "operator": "Mobiledata Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "69956",
+            "operator": "Kwarantanna (Teleena Holding BV do 07.2016)",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69957",
+            "operator": "Softelnet S.A. Sp. k.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69958",
+            "operator": "Wysyłaj SMS Polska Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69959",
+            "operator": "Move Telecom S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69960",
+            "operator": "3S S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69961",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69962",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69963",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69964",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69965",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69966",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69967",
+            "operator": "Nowa Telefonia Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69968",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "69969",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69970",
+            "operator": "ITI Neovision S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69971",
+            "operator": "Sat Film Sp. z o.o. i Wspólnicy Sp.k.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "6997(2,3,5-7)",
+            "operator": "Novum S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69974",
+            "operator": "COMPATEL LIMITED",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69978",
+            "operator": "VOXBONE SA",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "69979",
+            "operator": "ITI Neovision S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "6998",
+            "operator": "Telefonia Dialog Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "6999",
+            "operator": "Telefonia Dialog Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "false"
+          },
+          {
+            "numer": "720(1-7,9,0)",
+            "operator": "AERO 2 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7208",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "721",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "722",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "723",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "724",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "725",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "726",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7271",
+            "operator": "Nordisk Polska Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "727(2,3)",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "727(4-6,8-0)",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7277(1,2,7,9,0)",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7277(3-6,8)",
+            "operator": "Multimedia Polska S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7280",
+            "operator": "AERO 2 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "728(1-9)",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7290",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7291",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "729(2-6)",
+            "operator": "Lycamobile Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "72970",
+            "operator": "AMD Telecom S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "72971",
+            "operator": "Sat Film Sp. z o.o. i Wspólnicy Sp.k.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "72972",
+            "operator": "COMPATEL LIMITED",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7297(3,4)",
+            "operator": "NEXTGEN MOBILE LTD",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "72975",
+            "operator": "CALLFREEDOM Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "72976",
+            "operator": "Sat Film Sp. z o.o. i Wspólnicy Sp.k.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7297(7-9)",
+            "operator": "UAB VORTUMO",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7298",
+            "operator": "Kwarantanna (Mundio Mobile do 05.2014)",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "72990",
+            "operator": "Kwarantanna (Mundio Mobile do 05.2014)",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7299(1-3)",
+            "operator": "Rebtel Poland Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7299(4-9)",
+            "operator": "Premium Mobile S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "730",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "731",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "732",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "733",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "734",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "735",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "736(1-6)",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "736(7-0)",
+            "operator": "Virgin Mobile Polska Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7370",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7371",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7372(1-5,0)",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7372(6-9)",
+            "operator": "Fundacja Nasza Wizja",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "737(3-9)",
+            "operator": "Virgin Mobile Polska Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "738",
+            "operator": "PKP Polskie Linie Kolejowe S.A.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "7391(1-4)",
+            "operator": "VECTRA S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7391(5-0)",
+            "operator": "Kwarantanna (Mundio Mobile do 05.2014)",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "739(2,0)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "73930",
+            "operator": "VECTRA S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7393(1-9)",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "739(4-6)",
+            "operator": "Lycamobile Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "739(7,8)",
+            "operator": "Cyfrowy POLSAT S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "73991",
+            "operator": "AGILE TELECOM S.P.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "73992",
+            "operator": "MobiWeb Telecom Limited",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "73993",
+            "operator": "SIA NetBalt",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7399(4-6)",
+            "operator": "Multimedia Polska - Południe S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7399(7,8,0)",
+            "operator": "VikingCo Poland Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "73999",
+            "operator": "AHMES Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "780(1,5,6,0)",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "78020",
+            "operator": "KLUCZ Telekomunikacja Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7802(1-4,7)",
+            "operator": "INEA S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "78025",
+            "operator": "Interactive Digital Media GmbH",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "78026",
+            "operator": "SIA NetBalt",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "78028",
+            "operator": "METROPORT Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "78029",
+            "operator": "SMSHIGHWAY LIMITED",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7803",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "780(4,9)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "780(7,8)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "781",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "782",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "783",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "784",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "785",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7860(1-6)",
+            "operator": "Multimedia Polska S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "78607",
+            "operator": "VECTRA S.A.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "78608",
+            "operator": "TOYA Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "7860(9,0)",
+            "operator": "Rebtel Poland Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "786(1,2)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "786(3,4,7)",
+            "operator": "Rezerwa Prezesa UKE",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "786(5,6,8,9)",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "787",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "788",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7890",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7891",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7892",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7893",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7894",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "789(5-9)",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "790",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "791",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "792",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "793",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "794",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "795(1-5)",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "795(6-0)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "796",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "797",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "798",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7990",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "799(1-5)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "7996",
+            "operator": "Orange Polska S.A.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "799(7-9)",
+            "operator": "Virgin Mobile Polska Sp. z o.o.",
+            "typ": "MVNO",
+            "blokada": "true"
+          },
+          {
+            "numer": "880",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "8811",
+            "operator": "AERO 2 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "881(2-7)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "881(8-0)",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "882",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "883(1,2,4-7,9,0)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "883(3,8)",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "884(1,2)",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "884(3,6-0)",
+            "operator": "P4 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "true"
+          },
+          {
+            "numer": "8844",
+            "operator": "AERO 2 Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "8845",
+            "operator": "SFERIA S.A.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "885",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "886",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "887",
+            "operator": "Polkomtel Sp. z o.o.",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "888",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          },
+          {
+            "numer": "889",
+            "operator": "T-MOBILE POLSKA S.A. (d. PTC S.A.)",
+            "typ": "PLMN",
+            "blokada": "false"
+          }
+        ]
+      }
+    }
+  }
