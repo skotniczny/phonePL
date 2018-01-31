@@ -14,10 +14,10 @@ const invertedPhoneNumberType = Object.keys(phoneNumberType)
 const regexpPhonePL = /^(?:(?:(?:\+|00)?48)|(?:\(\+?48\)))?(?:1[2-8]|2[2-69]|3[2-49]|4[1-68]|5[0-9]|6[0-35-9]|[7-8][1-9]|9[145])\d{7}$/;
 // Matches only Mobile and Fixed-line numbers
 const regexpOnlyMobileAndFixed = /^(?:(?:(?:\+|00)?48)|(?:\(\+?48\)))?(?:1[2-8]|2[2-59]|3[2-4]|4[1-68]|5[0-9]|6[0-35-9]|[7-8][1-9]|9[145])\d{7}$/;
-// Match the same nine digit numbers as Google Libphonenumber
+// Matches the same nine digit phone numbers as Google Libphonenumber
 const regexpLibphone = /^(?:(?:(?:\+|00)?48)|(?:\(\+?48\)))?(?:(?:1[2-8]|2[2-69]|3[2-49]|4[1-68]|5[0-9]|6[0-9]|[7-8][1-9]|9[145])\d{7}|(?:(?:70[01346-8]|80[014]))\d{6})$/;
 
-const outputFileName = "regexPhpnePL_FAILED.txt";
+const outputFileName = "regexPhonePL_FAILED.txt";
 const data = testNumbers(regexpPhonePL, "+48", 100000000, 999999999, 100000);
 // Optionally filter data
 const formattedData = formatData(data.filter(number => number.regexpTest === "FAILED"));
