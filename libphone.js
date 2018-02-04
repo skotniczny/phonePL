@@ -27,7 +27,7 @@ fs.writeFile(outputFileName, formattedData, (err) => {
   if (err) {
     throw err;
   }
-  console.log("File", "\x1b[36m" + outputFileName + "\x1b[37m", "written.");
+  console.log(`File \x1b[36m${outputFileName}\x1b[37m written.`);
 });
 
 function testNumbers(regexp, prefix, start, stop, step) {
@@ -136,10 +136,9 @@ function getNumberingZone(num) {
 }
 
 function formatData(data) {
-  return data.map(obj => {
-    return `${obj.formatedNumber} => ${obj.isValid ? "valid" : "invalid"}, ` +
-           `${obj.type ? "type: " + obj.type + ", " : ""}` +
-           `${obj.numZone ? "numbering zone: " + obj.numZone + ", " : ""}` +
-           `${obj.regexpTest}`;
+  return data.map(({formatedNumber, isValid, regexpTest, type, numZone}) => {
+    return `${formatedNumber} => ${isValid ? "valid" : "invalid"}, ` +
+            (type ? `type: ${type}, ` : "") +
+            (numZone ? `numbering zone: ${numZone}, ` : "") + regexpTest;
   }).join("\r\n");
 }
