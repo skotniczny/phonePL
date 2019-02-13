@@ -4,10 +4,10 @@
   "description": "Test regular expression to validate Polish phone numbers against Google Libphonenumber",
   "main": "libphone.js",
   "dependencies": {
-    "google-libphonenumber": "^3.0.10"
+    "google-libphonenumber": "^3.2.2"
   },
   "devDependencies": {
-    "eslint": "^4.15.0"
+    "eslint": "^4.19.1"
   },
   "scripts": {
     "eslint": "eslint **/*.js"
