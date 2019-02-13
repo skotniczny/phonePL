@@ -17,18 +17,27 @@ const regexpOnlyMobileAndFixed = /^(?:(?:(?:\+|00)?48)|(?:\(\+?48\)))?(?:1[2-8]|
 // Matches the same nine digit phone numbers as Google Libphonenumber
 const regexpLibphone = /^(?:(?:(?:\+|00)?48)|(?:\(\+?48\)))?(?:(?:1[2-8]|2[2-69]|3[2-49]|4[1-68]|5[0-9]|6[0-9]|[7-8][1-9]|9[145])\d{7}|(?:(?:70[01346-8]|80[014]))\d{6})$/; // eslint-disable-line no-unused-vars
 
-const outputFileName = "regexPhonePL_FAILED.txt";
 const data = testNumbers(regexpPhonePL, "+48", 100000000, 999999999, 100000);
-// Optionally filter data
-const formattedData = formatData(data.filter(number => number.regexpTest === "FAILED"));
+
+saveResults("regexPhonePL.txt", data);
+saveResults("regexPhonePL_FAILED.txt", data, number => number.regexpTest === "FAILED");
 
 // Write script result to file
-fs.writeFile(outputFileName, formattedData, (err) => {
-  if (err) {
-    throw err;
+function saveResults(filename, data, filter) {
+
+  // Optionally filter data
+  if (filter) {
+    data = data.filter(filter);
   }
-  console.log(`File \x1b[36m${outputFileName}\x1b[37m written.`);
-});
+  const output = formatData(data);
+
+  fs.writeFile(filename, output, (err) => {
+    if (err) {
+      throw err;
+    }
+    console.log(`File \x1b[36m${filename}\x1b[37m written.`);
+  });
+}
 
 function testNumbers(regexp, prefix, start, stop, step) {
 
