@@ -8,10 +8,10 @@
     "url": "https://github.com/skotniczny/phonePL.git"
   },
   "dependencies": {
-    "google-libphonenumber": "^3.2.3"
+    "google-libphonenumber": "^3.2.6"
   },
   "devDependencies": {
-    "eslint": "^6.0.1"
+    "eslint": "^6.6.0"
   },
   "scripts": {
     "start": "node libphone.js",
