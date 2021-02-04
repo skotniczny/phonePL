@@ -2,12 +2,11 @@
 Regular expression to validate Polish phone numbers
 
 ```regexp
-(?:(?:(?:\+|00)?48)|(?:\(\+?48\)))?(?:1[2-8]|2[2-69]|3[2-49]|4[1-68]|5[0-9]|6[0-35-9]|[7-8][1-9]|9[145])\d{7}
+(?:(?:(?:\+|00)?48)|(?:\(\+?48\)))?(?:1[2-8]|2[2-69]|3[2-49]|4[1-8]|5[0-9]|6[0-35-9]|[7-8][1-9]|9[145])\d{7}
 ```
 ## Details
 
-Polish telephone numbers have 9 digits (excluding the country code). This regular expression matches 640 000 000 possible phone numbers:
-
+Polish telephone numbers have 9 digits (excluding the country code). This regular expression matches 650 000 000 possible phone numbers:
 ![visualization](https://raw.githubusercontent.com/skotniczny/phonePL/master/images/visual_regex.png)
 
 [debuggex.com](https://www.debuggex.com/r/ET8g3vYNVxYRiPXh)
@@ -89,6 +88,10 @@ Matches following ranges:
 ### VoIP
 
 39x xxx xxx  
+
+## Ministry of Interior and Administration
+
+47x xxx xxx  
 
 ## Node.js script
 
