@@ -9,8 +9,6 @@ Regular expression to validate Polish phone numbers
 Polish telephone numbers have 9 digits (excluding the country code). This regular expression matches 650 000 000 possible phone numbers:
 ![visualization](https://raw.githubusercontent.com/skotniczny/phonePL/master/images/visual_regex.png)
 
-[debuggex.com](https://www.debuggex.com/r/ET8g3vYNVxYRiPXh)
-
 Matches following ranges:
 
 ### Mobile numbers
@@ -89,7 +87,7 @@ Matches following ranges:
 
 39x xxx xxx  
 
-## Ministry of Interior and Administration
+### Ministry of Interior and Administration
 
 47x xxx xxx  
 
