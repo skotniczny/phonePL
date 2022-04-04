@@ -1,15 +1,18 @@
 # Tablice Zagospodarowania Numeracji 
+https://numeracja.uke.gov.pl/
 
-## Stacjonarne publiczne sieci telefoniczne
-`T1-PSTN.json` Tablica Zagospodarowania Numeracji abonenckiej dla sieci PSTN (dla każdej z 49 stref numeracyjnych)
+## Stacjonarne publiczne sieci telekomunikacyjne
+Tablica Zagospodarowania Numeracji abonenckiej dla stacjonarnej publicznej sieci telekomunikacyjnej PSTN (dla każdej z 49 stref numeracyjnych)  
+https://numeracja.uke.gov.pl/pl/pstn_tables
 
-## Ruchome (komórkowe) publiczne sieci telefoniczne
-`T2-PLMN_T9-MVNO.json` Tablice numeracji dla ruchomych publicznych sieci telefonicznych
+## Ruchome (komórkowe) publiczne sieci telekomunikacyjne
+Tablica Zagospodarowania Numeracji abonenckiej dla ruchomej publicznej sieci telekomunikacyjnej PLMN  
+https://numeracja.uke.gov.pl/pl/plmn_tables
 
 ## Sieci inteligentne (70, 80)
-`T5-IN.json` Tablica Zagospodarowania Numeracji dostępu do usług sieci inteligentnych IN
+Tablica Zagospodarowania Numeracji dostępu do usług sieci inteligentnych IN  
+https://numeracja.uke.gov.pl/pl/ndin_tables
 
 ## Usługi wykorzystujące technologię IP
-`T12-VoIP.json` Tablica zagospodarowania numeracji niegeograficznej (o wyróżniku sieci WST AB=39) dla świadczenia usług telefonii wykorzystującej pakietową transmisję danych w technologii IP (VoIP)
-
-https://archiwum.uke.gov.pl/tablice/
+Tablica Zagospodarowania Numeracji niegeograficznej (o wyróżniku sieci WST AB=39) dla świadczenia usług telefonii wykorzystującej pakietową transmisję danych w technologii IP (VoIP)  
+https://numeracja.uke.gov.pl/pl/voip_tables
