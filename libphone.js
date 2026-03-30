@@ -19,8 +19,14 @@ const regexpLibphone = /^(?:(?:(?:\+|00)?48)|(?:\(\+?48\)))?(?:(?:1[2-8]|2[2-69]
 
 const data = testNumbers(regexpPhonePL, "+48", 100000000, 999999999, 100000);
 
-saveResults("regexPhonePL.txt", data);
-saveResults("regexPhonePL_FAILED.txt", data, number => number.regexpTest === "FAILED");
+const results = await Promise.allSettled([
+  saveResults("regexPhonePL.txt", data),
+  saveResults("regexPhonePL_FAILED.txt", data, number => number.regexpTest === "FAILED")
+]);
+
+results
+  .filter(result => result.status === "rejected")
+  .forEach(result => console.error(result.reason));
 
 // Write script result to file
 async function saveResults(filename, data, filter) {
