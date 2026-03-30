@@ -1,6 +1,6 @@
-const fs = require("fs");
+import { writeFile } from "node:fs/promises";
 // Get an instance of `PhoneNumberUtil`.
-const googleLibphonenumber = require("google-libphonenumber");
+import googleLibphonenumber from "google-libphonenumber";
 const phoneUtil = googleLibphonenumber.PhoneNumberUtil.getInstance();
 const PNF = googleLibphonenumber.PhoneNumberFormat;
 const phoneNumberType = googleLibphonenumber.PhoneNumberType;
@@ -23,7 +23,7 @@ saveResults("regexPhonePL.txt", data);
 saveResults("regexPhonePL_FAILED.txt", data, number => number.regexpTest === "FAILED");
 
 // Write script result to file
-function saveResults(filename, data, filter) {
+async function saveResults(filename, data, filter) {
 
   // Optionally filter data
   if (filter) {
@@ -31,12 +31,8 @@ function saveResults(filename, data, filter) {
   }
   const output = formatData(data);
 
-  fs.writeFile(filename, output, (err) => {
-    if (err) {
-      throw err;
-    }
-    console.log(`File \x1b[36m${filename}\x1b[37m written.`);
-  });
+  await writeFile(filename, output);
+  console.log(`File \x1b[36m${filename}\x1b[37m written.`);
 }
 
 function testNumbers(regexp, prefix, start, stop, step) {
