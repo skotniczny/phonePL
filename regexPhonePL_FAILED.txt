@@ -1,4 +1,6 @@
+211 000 000 => valid, type: MOBILE, FAILED
 211 100 000 => valid, type: MOBILE, FAILED
+211 300 000 => valid, type: MOBILE, FAILED
 211 400 000 => valid, type: MOBILE, FAILED
 211 500 000 => valid, type: MOBILE, FAILED
 212 000 000 => valid, type: MOBILE, FAILED
@@ -6,6 +8,19 @@
 212 200 000 => valid, type: MOBILE, FAILED
 212 300 000 => valid, type: MOBILE, FAILED
 212 400 000 => valid, type: MOBILE, FAILED
+212 500 000 => valid, type: MOBILE, FAILED
+212 600 000 => valid, type: MOBILE, FAILED
+212 700 000 => valid, type: MOBILE, FAILED
+212 800 000 => valid, type: MOBILE, FAILED
+212 900 000 => valid, type: MOBILE, FAILED
+213 200 000 => valid, type: MOBILE, FAILED
+213 300 000 => valid, type: MOBILE, FAILED
+213 400 000 => valid, type: MOBILE, FAILED
+213 500 000 => valid, type: MOBILE, FAILED
+213 600 000 => valid, type: MOBILE, FAILED
+213 700 000 => valid, type: MOBILE, FAILED
+213 800 000 => valid, type: MOBILE, FAILED
+213 900 000 => valid, type: MOBILE, FAILED
 640 000 000 => valid, type: PAGER, FAILED
 640 100 000 => valid, type: PAGER, FAILED
 640 200 000 => valid, type: PAGER, FAILED
